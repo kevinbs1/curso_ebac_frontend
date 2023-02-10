@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header .container {
+    display: flex;
+    align-items: center;
+}
+header .container {
+    display: inline;
+}
+}
+.articles article p,
+.articles article a  {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
